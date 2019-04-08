@@ -1,0 +1,7 @@
+Title : English = Hello\nEnglish
+Title : Spanish = ¡Hola!\nespañol
+Title : Japanese = こんにちは\n日本語
+
+Hello : English = Hello
+Hello : Spanish = ¡Hola!
+Hello : Japanese = こんにちは

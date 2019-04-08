@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16e38403b3aeb3341972ef654b30755e, type: 3}
+  m_Name: ZpixSetting
+  m_EditorClassIdentifier: 
+  fontSize: 2
+  font: {fileID: 11400000, guid: 2b9f71870b92d964092dafd13ba17f7b, type: 2}

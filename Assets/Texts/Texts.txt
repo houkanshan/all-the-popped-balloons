@@ -1,0 +1,145 @@
+﻿Empty: English = \n
+Empty: Chinese = \n
+
+Title: English = All popped balloon\n- english -
+Title: Chinese = 所有爆了的气球\n- 中文 -
+
+Front: English = Grandma,\nCome Here!
+Front: Chinese = 奶奶，快来！
+
+PlayWind: English = Look, the wind blows the balloon back!
+PlayWind: Chinese = 气球被吹回来了！
+
+Brilliant: English = Brilliant! But don't step into the water.
+Brilliant: Chinese = 真聪明!别踩着水了
+
+Burst: English = Well, I just bought it...
+Burst: Chinese = 才买的，又弄爆了
+
+JustBalloon: English = Play something else. You've popped too many balloons.
+JustBalloon: Chinese = 别老玩气球了，哪有那么多给你玩
+
+LetMeBuy: English = Let me buy some snacks for you!
+LetMeBuy: Chinese = 奶奶去给你买好吃的！
+
+YourFavorite: English = your favorite is ____, right?
+YourFavorite: Chinese = 我知道你最喜欢
+
+NotMyFav: English = I don't like it.
+NotMyFav: Chinese = 我不喜欢这个。
+
+PlayAtHome: English = just, play at home. Don't go out, will you?
+PlayAtHome: Chinese = 就待在家里玩，好不好？
+
+HeyShop0: English = Hello?
+HeyShop0: Chinese = 有人吗？
+
+HeyShop1: English = Anyone here?
+HeyShop1: Chinese = 喂？
+
+HeyShop2: English = Hey!
+HeyShop2: Chinese = 老板！
+
+HeyShop3: English = Is there anyone here?
+HeyShop3: Chinese = 做不做生意啊？
+
+
+ButI: English = But I bought it for 6 yuan last time.
+ButI: Chinese = 上回只卖6块嘛…
+
+Imported: English = It's an imported variety. Good for kids.
+Imported: Chinese = 这昨天刚到的，进口的，小孩喜欢
+
+NoGood: English = Ugh, they're already soft, 7 yuan.
+NoGood: Chinese = 唉，都软了，7块7块。
+
+Taste: English = They're just ripe, taste one.
+Taste: Chinese = 软的才甜啊，您先尝尝
+
+AtLoss: English = Ma'am, we already sell at a loss.
+AtLoss: Chinese = 不能再少了，阿姨。
+
+WillGo: English = 7.50 or I leave.
+WillGo: Chinese = 7块5，不卖我上别地看去。
+
+WeatherWrong: English = It's useless. The weather is like a child,
+WeatherWrong: Chinese = 唉！没有用，这天气就和小孩子一样，
+
+WeatherRight: English = one moment want this and the next want that. Even hi-tech can't predict.
+WeatherRight: Chinese = 一会说要这个一会说要那个，说几句就不高兴，高科技也拿他没法。
+
+Grandma: English = Grandma,\ncome here!
+Grandma: Chinese = 奶奶，快来！
+
+Eat: English = Eat
+Eat: Chinese = 吃
+
+DontEat: English = Don't Eat
+DontEat: Chinese = 不吃
+
+Mop: English = A mop and a bucket. The wall is leaky. During the rain, we have to clean the water every few hours.
+Mop: Chinese = 拖把和桶。屋子的墙漏水了，下雨的时候我们总得忙活一会儿。
+
+FamilyPortrait: English = Some family portraits of mom, dad and me.
+FamilyPortrait: Chinese = 几张妈妈、爸爸还有我的合影。
+
+Newspaper: English = A newspaper. I've never seen one in grandma's house. I thought she doesn't care about the outside except the weather.
+Newspaper: Chinese = 一份报纸，我还以为奶奶不关心外面的事情，除了天气。
+
+Umbrella: English = An umbrella, smells bad.
+Umbrella: Chinese = 一把伞，臭臭的。
+
+DeathPhoto: English = Photos of grandpa and me. It's a little weird to see myself here all the time.
+DeathPhoto: Chinese = 爷爷和我的照片。说实话，老在屋子里看到自己的照片感觉好奇怪。
+
+FlashLight: English = A flashlight, grandma uses it when she wakes up at night.
+FlashLight: Chinese = 一个手电筒，奶奶半夜起床的时候会用上它。
+
+Pillow: English = Grandma's pillow, it's a little dirty with a smell of the old people. Her wallet is under it.
+Pillow: Chinese = 奶奶的枕头，有点儿脏，闻起来还有股老人的味道。\n她的钱包放在枕头下面。
+
+Comb: English = Grandma's comb. I like the feeling and sound of using it, but grandma would take me to the barber shop before I need a comb.
+Comb: Chinese = 奶奶的梳子。我喜欢梳头发时的感觉和声音，虽然我用不上。
+
+Cigarettes: English = A carton of cigarettes. Dad will bring one when he comes back, and he will let me hand it to grandma.
+Cigarettes: Chinese = 一条烟。爸爸回家的时候总会带一条，他还老让我来拿给奶奶，可我又不抽烟。
+
+Box: English = A locked old big wooden box. Grandma showed me some old coins inside it. She said she will pass them on to me when she die.
+Box: Chinese = 一个锁着的大木箱。奶奶给我看过里面的一些古董钱币，她还说以后要传给我。
+
+Razor: English = Grandpa's razor, don't know why grandma took it out.
+Razor: Chinese = 爷爷的刮胡刀，不知道奶奶拿它出来做什么。
+
+Chair: English = Grandma's folding chair. She will take it to see other old men playing chess.
+Chair: Chinese = 奶奶的小折椅。她经常带着它出门看别的老头子下棋。
+
+ThankYou: English = based on a true story
+ThankYou: Chinese = 改编自真实故事
+
+ThankYou1: English = - Music -\n\n"La Plus Que Lente"\n\nClaude Debussy,\nLa Pianista
+
+ThankYou2: English = - Sounds -\n\nGniffelbaf, Hsaunier10, Yoyodaman234, Rasfrecci W Donna\n\nfrom freesound.org
+
+ThankYou3: English = - Fonts -\n\nEnglish: 04b_08\n\nChinese: zpix
+
+ThankYou4: English = - Testers -\n\nXianzhen, Larme,\nLin qin, Papier,\nyang qing, mockee,\n\nSerotoninphobe
+
+ThankYou5: English = - Others -\n\nHou mai
+
+ThankYou6: English = Thank you
+ThankYou6: Chinese = 谢谢
+
+News1: English = Secrets to a Long Life: Good Mood is More Important Than Yang Sheng
+News1: Chinese = 长寿秘诀，“好心情”比“养生”更重要
+
+News2: English = Blue-Staining Boletes: Cooked Properly, Poisonless and Delicious.
+News2: Chinese = 美味见手青，炒熟了就能放心吃
+
+News3: English = Precipitation Is Hitting a New High Again, All Work Units Are Ready.
+News3: Chinese = 降水量料又创新高，各单位已做好应急准备
+
+News4: English = Plane Crashed, No Survivors
+News4: Chinese = 客机坠毁，无人生还
+
+News5: English = TV Shows Schedule of Tomorrow
+News5: Chinese = 明日电视节目预告
